@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWord Library</string>
+    <string name="title_activity_my_words_tab">MyWordsTabActivity</string>
+    <string name="tab_text_1">Learning</string>
+    <string name="tab_text_2">Learned</string>
+</resources>
+

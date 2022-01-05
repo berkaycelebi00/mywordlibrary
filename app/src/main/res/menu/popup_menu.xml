@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fifteenm"
+        android:title="15 Minutes" />
+    <item
+        android:id="@+id/thirtym"
+        android:title="30 Minutes"/>
+    <item
+        android:id="@+id/oneh"
+        android:title="1 Hour"/>
+    <item
+        android:id="@+id/twoh"
+        android:title="2 Hours"/>
+    <item
+        android:id="@+id/fourh"
+        android:title="4 Hours"/>
+    <item
+        android:id="@+id/eighth"
+        android:title="8 Hours"/>
+</menu>
